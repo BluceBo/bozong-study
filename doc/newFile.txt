@@ -1,0 +1,2 @@
+普通字符串
+com.banggood.bozong.study.crazyjava.chapter15.PrintStreamTest@4554617c
